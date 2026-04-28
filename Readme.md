@@ -1,12 +1,12 @@
-💳 Banking Transactions Analytics Dashboard
+💳 **Banking Transactions Analytics Dashboard**
 
-📊 Project Overview
+📊 **Project Overview**
 
 This project analyzes banking transaction data to generate meaningful business insights using key financial KPIs and visual dashboards. It focuses on understanding transaction behavior across branches, banks and payment methods.
 
 The dashboard helps stakeholders quickly identify trends in net transactions, credit-debit balance and channel-wise performance.
 
-🚀 Key Metrics & KPIs
+🚀**Key Metrics & KPIs**
 
 Net Transactions by Month
 Tracks overall transaction flow trend over time (Credit - Debit)
@@ -21,21 +21,23 @@ Credit vs Debit Ratio
 Ratio > 1 → 🟢 Healthy inflow (Green bars)
 Ratio < 1 → 🔴 Higher outflow (Red bars)
 
-📈 Key Insights
+📈 **Key Insights**
 
 Monthly trends help identify seasonal transaction patterns.
 Branch-wise analysis highlights operational performance differences.
 Payment method distribution shows customer preference behavior.
 Credit-debit ratio provides financial health indicators per segment.
 
-🛠️ Tools Used
+🛠️ **Tools Used**
 
 Power BI (Data Visualization)
 DAX(Creating Measures)
 Excel / CSV (Data Source Preparation)
 
-🎯 Business Value
+🎯 **Business Value**
 Helps monitor financial inflow/outflow trends
 Supports branch performance evaluation
 Identifies customer payment preferences
 Assists in risk monitoring using credit-debit ratio
+
+**Visual** : Attached pdf
